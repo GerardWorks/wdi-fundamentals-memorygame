@@ -1,0 +1,1 @@
+var cardOne="Queen",cardTwo="Queen",cardThree="King",cardFour="King";cardOne==cardTwo?console.log("True"):cardThree==cardFour?console.log("True"):console.log("False");
