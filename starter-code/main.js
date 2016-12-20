@@ -4,12 +4,14 @@ var cardThree = "King";
 var cardFour = "King";
 
 
-
-if(cardOne==cardTwo){
-  console.log("True");
-}else if(cardThree==cardFour){
-  console.log("True");
+if(cardTwo===cardFour){
+  alert('Not a match. Please try again.');
+}
+if(cardOne===cardTwo){
+  alert('You found a match!');
+}else if(cardThree===cardFour){
+  alert('You found a match!');
 }
 else{
-  console.log("False");
+  alert('Not a match. Please try again.');
 }
