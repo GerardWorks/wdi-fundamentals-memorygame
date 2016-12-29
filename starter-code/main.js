@@ -1,9 +1,10 @@
+/*
 var cardOne = "Queen";
 var cardTwo = "Queen";
 var cardThree = "King";
 var cardFour = "King";
-
-
+*/
+/*
 if(cardTwo===cardFour){
   alert('Not a match. Please try again.');
 }
@@ -15,3 +16,14 @@ if(cardOne===cardTwo){
 else{
   alert('Not a match. Please try again.');
 }
+*/
+var gameBoard = document.getElementById('game-board');
+
+function createCards{
+for (var i=0;i<4;i++){
+  var cards = document.createElement('div');
+  cards.className = 'card';
+  gameBoard.appendChild('cards');
+  }
+}
+createCards();

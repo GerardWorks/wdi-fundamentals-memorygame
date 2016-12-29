@@ -1,1 +1,1 @@
-var cardOne="Queen",cardTwo="Queen",cardThree="King",cardFour="King";cardTwo===cardFour&&alert("Not a match. Please try again."),cardOne===cardTwo?alert("You found a match!"):cardThree===cardFour?alert("You found a match!"):alert("Not a match. Please try again.");
+for(var gameBoard=document.getElementById("game-board"),i=0;i<4;i++){var cards=document.createElement("div");cards.className="card",gameBoard.appendChild("cards")}
