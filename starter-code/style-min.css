@@ -58,6 +58,10 @@ footer a{
 .name{
   color: #ff0000;
 }
+img{
+  width:150px;
+  height:200px;
+}
 .clearfix:after {
         visibility: hidden;
         display: block;

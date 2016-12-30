@@ -9,6 +9,22 @@
 	],
 "creatorBuild": "25444",
 "files": {
+	"\/img\/king.png": {
+		"ft": 32768,
+		"iS": 279177,
+		"oA": 0,
+		"oAP": "\/img\/king.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/queen.png": {
+		"ft": 32768,
+		"iS": 279663,
+		"oA": 0,
+		"oAP": "\/img\/queen.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/index.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -33,6 +49,16 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/style-min.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/style-min-min.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/style.css": {
 		"aP": 0,
 		"bl": 0,
@@ -51,7 +77,7 @@
 "projectAttributes": {
 	"creationDate": 503860524,
 	"displayValue": "starter-code",
-	"displayValueWasSetByUser": 0,
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "meme-fry"
 	},
 "projectSettings": {
